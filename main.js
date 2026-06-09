@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
             taglines = [
                 'التميز في القانون',
                 'شركاء قانونيون موثوقون',
-                'نجاحكم هو مهمتنا'
+                'نجاحكم غايتنا'
             ];
         } else if (currentLang === 'de') {
             taglines = [
